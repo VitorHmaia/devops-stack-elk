@@ -1,0 +1,70 @@
+services:
+  elasticsearch:
+    image: elasticsearch:${ELASTICSEARCH_VERSION}
+    container_name: elasticsearch
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+    volumes:
+      - test_data:/usr/share/elasticsearch/data/
+      - ./elasticsearch/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+    environment:
+      - discovery.type=${ELASTICSEARCH_DISCOVERY_TYPE}
+      - http.host=${ELASTICSEARCH_HTTP_HOST}
+      - transport.host=${ELASTICSEARCH_TRANSPORT_HOST}
+      - xpack.security.enabled=${ELASTICSEARCH_XPACK_SECURITY_ENABLED}
+      - xpack.monitoring.enabled=${ELASTICSEARCH_XPACK_MONITORING_ENABLED}
+      - cluster.name=${ELASTICSEARCH_CLUSTER_NAME}
+      - bootstrap.memory_lock=${ELASTICSEARCH_BOOTSTRAP_MEMORY_LOCK}
+    networks:
+      - elk
+
+  logstash:
+    image: logstash:${LOGSTASH_VERSION}
+    container_name: logstash
+    ports:
+      - "5044:5044"
+      - "9600:9600"
+    volumes:
+      - ./logstash/logstash.conf:/usr/share/logstash/pipeline/logstash.conf
+      - ./logstash/logstash.yml:/usr/share/logstash/config/logstash.yml
+      - ls_data:/usr/share/logstash/data
+    networks:
+      - elk
+    depends_on:
+      - elasticsearch
+
+  kibana:
+    image: kibana:${KIBANA_VERSION}
+    container_name: kibana
+    environment:
+      - ELASTICSEARCH_URL=${KIBANA_ELASTICSEARCH_URL}
+      - ELASTIC_PASSWORD=${KIBANA_ELASTIC_PASSWORD}
+    ports:
+      - "5601:5601"
+    volumes:
+      - ./kibana/kibana.yml:/usr/share/kibana/config/kibana.yml
+      - kb_data:/usr/share/kibana/data
+    networks:
+      - elk
+    depends_on:
+      - elasticsearch
+
+  log-generator:
+    build: ./log-generator
+    image: ${LOG_GENERATOR_IMAGE}
+    volumes:
+      - ./log-generator/logs:/app/logs
+    ports:
+      - "${LOG_GENERATOR_PORT}:${LOG_GENERATOR_PORT}"
+    networks:
+      - elk
+
+networks:
+  elk:
+    driver: bridge
+
+volumes:
+  test_data:
+  ls_data:
+  kb_data:
