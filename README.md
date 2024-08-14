@@ -76,7 +76,7 @@ Para facilitar a instalação do Docker na versão específica necessária, voc�
     KIBANA_ELASTIC_PASSWORD=password
 
     # Log Generator
-    LOG_GENERATOR_IMAGE=log-generator
+    LLOG_GENERATOR_IMAGE=vitorhmaia/log-generator:1.0
     LOG_GENERATOR_PORT=5000
     ```
 
