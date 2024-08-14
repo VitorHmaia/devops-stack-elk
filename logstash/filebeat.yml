@@ -1,0 +1,17 @@
+filebeat.inputs:
+  - type: log
+    enabled: true
+    paths:
+      - /usr/share/filebeat/logs/*.log
+
+logging:
+  level: info
+  to_files: true
+  files:
+    path: /usr/share/filebeat/logs
+    name: filebeat
+    keepfiles: 7
+    maxsize: 10mb
+
+output.logstash:
+  hosts: ["logstash:5044"]
