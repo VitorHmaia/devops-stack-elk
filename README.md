@@ -10,6 +10,7 @@
 
 - [Introdução](#introdução)
 - [Requisitos Mínimos](#requisitos-mínimos)
+- [Script para Instalar o Docker](#script-para-instalar-o-docker)
 - [Como Subir os Serviços](#como-subir-os-serviços)
 - [Descrição da Aplicação Geradora de Logs](#descrição-da-aplicação-geradora-de-logs)
 - [Verificação dos Logs](#verificação-dos-logs)
@@ -28,6 +29,21 @@ Este projeto configura uma pilha ELK (Elasticsearch, Logstash, Kibana) para cole
   - CPU: 2 cores
   - Memória: 4 GB
 
+### Script para Instalar o Docker
+
+Para facilitar a instalação do Docker na versão específica necessária, você pode usar o script `install_dependencies.sh`. Este script verifica a versão atual do Docker e instala a versão correta, se necessário.
+
+#### Como usar o script
+
+1. Baixe ou clone este repositório.
+2. Navegue até o diretório raiz do projeto.
+3. Execute o script usando o seguinte comando:
+
+   ```bash
+   # No linux
+   chmod +x install_dependencies.sh
+
+   ./install_dependencies.sh
 ## Como Subir os Serviços
 
 1. **Clone o repositório:**
