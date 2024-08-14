@@ -1,0 +1,645 @@
+2024-08-14 22:17:52,935 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22239627f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:17:54,947 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238ee250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:17:56,955 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238eec40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:17:58,961 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238f8670>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:00,975 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238eec40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:02,981 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238ee1c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:04,978 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2223962d90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:06,985 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238f8df0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:08,991 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22239030a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:11,002 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2223903a90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:13,011 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22239444c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:15,016 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238f8f10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:17,046 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238f8970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:19,054 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238ee4c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:21,061 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2223903130>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:23,067 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238ee970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:25,077 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238ee2e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:27,105 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238f8d00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:29,112 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238f82b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:31,120 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2223903490>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:33,129 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2223962fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:35,132 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238f8220>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:37,139 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2223944970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:39,144 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2223903af0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:41,149 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2223903f70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:43,153 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238ee5e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:18:45,383 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:18:47,417 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:18:49,444 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:18:51,472 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:18:53,496 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:18:55,520 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:18:57,541 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:18:59,563 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:19:01,578 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:19:03,592 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:19:05,606 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:19:07,622 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:19:09,635 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:19:11,648 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:19:13,672 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:19:15,690 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:19:17,704 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:19:19,718 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:19:21,731 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:19:23,746 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:19:25,763 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:19:27,778 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:19:29,791 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:19:31,805 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:19:33,820 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:19:35,829 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:19:37,843 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:19:39,859 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:19:41,874 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:19:43,885 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:19:45,908 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:19:47,919 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:19:49,932 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:19:51,943 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:19:53,956 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:19:55,968 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:19:57,981 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:19:59,993 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:20:02,007 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:20:04,019 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:20:06,029 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:20:08,042 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:20:10,054 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:20:12,069 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:20:14,081 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:20:16,093 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:20:18,107 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:20:20,118 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:20:22,128 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:20:24,140 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:20:26,152 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:20:28,164 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:20:30,175 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:20:32,187 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:20:34,197 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:20:36,210 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:20:38,223 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:20:40,234 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:20:42,248 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:20:44,260 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:20:46,272 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:20:48,285 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:20:50,298 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:20:52,309 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:20:54,322 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:20:56,336 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:20:58,354 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:21:00,366 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:21:02,379 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:21:04,391 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:21:06,402 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:21:08,417 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:21:10,430 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:21:12,439 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:21:14,453 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:21:16,469 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:21:18,481 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:21:20,495 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:21:22,506 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:21:24,520 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:21:26,532 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:21:28,544 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:21:30,561 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:21:32,573 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:21:34,584 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:21:36,595 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:21:38,606 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:21:40,624 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:21:42,638 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:21:44,649 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:21:46,660 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:21:48,671 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:21:50,682 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:21:52,693 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:21:54,706 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:21:56,717 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:21:58,728 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:22:00,740 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:22:02,751 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:22:04,760 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:22:06,773 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:22:08,786 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:22:10,796 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:22:12,807 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:22:14,819 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:22:16,830 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:22:18,839 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:22:20,851 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:22:22,862 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:22:24,874 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:22:26,885 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:22:28,897 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:22:30,907 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:22:32,921 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:22:34,930 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:22:36,941 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:22:38,955 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:22:40,966 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:22:42,975 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:22:44,986 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:22:46,998 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:22:49,010 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:22:51,022 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:22:53,034 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:22:55,048 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:22:57,058 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:22:59,071 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:23:01,082 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:23:03,096 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:23:05,105 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:23:07,117 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:23:09,129 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:23:11,140 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:23:13,152 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:23:15,163 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:23:17,175 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:23:19,187 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:23:21,200 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:23:23,210 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:23:25,222 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:23:27,234 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:23:29,247 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:23:31,261 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:23:33,273 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:23:35,283 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:23:37,294 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:23:39,303 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:23:41,318 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:23:43,328 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:23:45,339 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:23:47,350 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:23:49,361 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:23:51,374 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:23:53,385 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:23:55,397 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:23:57,410 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:23:59,421 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:24:01,431 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:24:03,441 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:24:05,451 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:24:07,463 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:24:09,474 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:24:11,483 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:24:13,494 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:24:15,506 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:24:17,516 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:24:19,527 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:24:21,538 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:24:23,549 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:24:25,561 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:24:27,572 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:24:29,582 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:24:31,595 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:24:33,607 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:24:35,617 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:24:37,628 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:24:39,640 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:24:41,651 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:24:43,663 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:24:45,676 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:24:47,689 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:24:49,701 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:24:51,709 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:24:53,721 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:24:55,729 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:24:57,739 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:24:59,751 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:25:01,762 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:25:03,771 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:25:05,778 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:25:07,790 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:25:09,799 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:25:11,808 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:25:13,819 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:25:15,830 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:25:17,841 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:25:19,853 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:25:21,865 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:25:23,877 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:25:25,887 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:25:27,898 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:25:29,911 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:25:31,922 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:25:33,932 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:25:35,940 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:25:37,951 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:25:39,961 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:25:41,972 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:25:43,983 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:25:45,994 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:25:48,007 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:25:50,015 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:25:52,026 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:25:54,036 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:25:56,046 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:25:58,056 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:26:00,066 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:26:02,077 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:26:04,087 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:26:06,096 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:26:08,108 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:26:10,116 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:26:12,128 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:26:14,136 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:26:16,148 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:26:18,161 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:26:20,170 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:26:22,184 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:26:24,195 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:26:26,205 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:26:28,214 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:26:30,227 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:26:32,238 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:26:34,247 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:26:36,257 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:26:38,268 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:26:40,279 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:26:42,289 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:26:44,299 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:26:46,309 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:26:48,320 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:26:50,330 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:26:52,340 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:26:54,349 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:26:56,359 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:26:58,368 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:27:00,380 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:27:02,388 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:27:04,397 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:27:06,407 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:27:08,418 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:27:10,429 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:27:12,440 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:27:14,451 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:27:16,461 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:27:18,471 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:27:20,481 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:27:22,492 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:27:24,501 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:27:26,512 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:27:28,522 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:27:30,531 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:27:32,544 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:27:34,552 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:27:36,566 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:27:38,577 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:27:40,588 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:27:42,597 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:27:44,607 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:27:46,617 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:27:48,629 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:27:50,641 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:27:52,651 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:27:54,665 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:27:56,676 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:27:58,686 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:28:00,701 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f22238eed00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:28:37,208 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebdd77f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:28:39,216 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd63250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:28:41,236 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd63c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:28:43,246 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd6d670>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:28:45,252 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd63c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:28:47,257 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd631c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:28:49,264 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebdd7d90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:28:51,269 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd6ddf0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:28:53,275 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd780a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:28:55,281 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd78a90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:28:57,286 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebdb94c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:28:59,292 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd6df10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:29:01,297 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd6d970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:29:03,303 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd634c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:29:05,307 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd78130>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:29:07,315 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd63970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:29:09,319 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd632e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:29:11,331 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd6dd00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:29:13,348 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd6d250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:29:15,354 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd78490>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 22:29:17,664 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:29:19,715 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:29:21,744 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:29:23,876 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:29:25,959 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:29:28,028 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:29:30,099 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:29:32,157 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:29:34,168 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:29:36,183 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:29:38,199 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:29:40,213 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:29:42,227 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:29:44,241 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:29:46,261 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:29:48,274 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:29:50,289 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:29:52,304 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:29:54,320 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:29:56,337 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:29:58,380 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:30:00,396 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:30:02,410 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:30:04,422 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:30:06,438 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:30:08,452 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:30:10,468 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:30:12,481 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:30:14,495 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:30:16,519 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:30:18,534 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:30:20,549 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:30:22,560 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:30:24,575 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:30:26,591 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:30:28,606 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:30:30,623 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:30:32,637 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:30:34,650 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:30:36,665 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:30:38,679 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:30:40,695 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:30:42,709 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:30:44,722 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:30:46,735 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:30:48,750 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:30:50,762 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:30:52,773 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:30:54,791 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:30:56,808 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:30:58,825 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:31:00,839 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:31:02,852 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:31:04,864 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:31:06,879 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:31:08,892 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:31:10,908 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:31:12,922 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:31:14,936 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:31:16,953 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:31:18,969 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:31:20,985 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:31:23,000 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:31:25,014 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:31:27,029 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:31:29,047 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:31:31,063 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:31:33,075 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:31:35,086 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:31:37,096 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:31:39,109 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:31:41,125 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:31:43,143 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:31:45,157 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:31:47,172 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:31:49,187 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:31:51,201 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:31:53,215 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:31:55,229 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:31:57,241 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:31:59,254 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:32:01,267 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:32:03,279 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:32:05,293 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:32:07,308 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:32:09,323 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:32:11,337 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:32:13,350 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:32:15,363 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:32:17,380 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:32:19,395 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:32:21,409 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:32:23,424 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:32:25,439 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:32:27,455 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:32:29,470 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:32:31,485 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:32:33,503 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:32:35,515 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:32:37,529 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:32:39,544 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:32:41,559 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:32:43,573 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:32:45,586 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:32:47,599 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:32:49,613 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:32:51,628 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:32:53,643 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:32:55,657 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:32:57,675 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:32:59,690 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:33:01,702 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:33:03,713 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:33:05,725 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:33:07,738 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:33:09,751 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:33:11,766 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:33:13,778 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:33:15,794 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:33:17,806 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:33:19,819 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:33:21,834 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:33:23,849 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:33:25,864 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:33:27,883 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:33:29,900 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:33:31,916 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:33:33,928 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:33:35,942 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:33:37,954 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:33:39,967 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:33:41,980 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:33:43,995 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:33:46,009 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:33:48,022 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:33:50,034 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:33:52,047 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:33:54,061 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:33:56,076 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:33:58,089 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:34:00,101 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:34:02,112 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:34:04,124 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:34:06,133 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:34:08,150 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:34:10,163 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:34:12,176 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:34:14,188 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:34:16,201 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:34:18,214 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:34:20,228 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:34:22,241 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:34:24,259 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:34:26,274 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:34:28,286 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:34:30,299 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:34:32,312 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:34:34,325 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:34:36,343 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:34:38,355 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:34:40,371 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:34:42,387 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:34:44,400 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:34:46,414 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:34:48,426 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:34:50,438 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:34:52,455 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:34:54,468 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:34:56,481 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:34:58,497 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:35:00,511 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:35:02,523 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:35:04,536 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:35:06,549 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:35:08,562 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:35:10,573 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:35:12,585 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:35:14,601 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:35:16,617 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:35:18,629 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:35:20,640 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:35:22,653 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:35:24,668 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:35:26,677 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:35:28,693 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 22:35:30,708 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:35:32,722 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:35:34,736 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:35:36,752 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:35:38,770 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:35:40,781 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:35:42,791 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:35:44,806 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:35:46,824 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:35:48,836 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:35:50,848 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:35:52,861 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:35:54,876 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:35:56,890 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:35:58,906 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:36:00,921 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:36:02,934 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:36:04,946 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:36:06,959 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:36:08,973 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:36:10,985 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:36:12,999 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:36:15,014 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:36:17,028 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:36:19,042 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:36:21,056 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:36:23,068 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:36:25,083 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:36:27,095 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:36:29,109 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:36:31,120 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:36:33,133 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:36:35,145 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 22:36:37,158 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 22:36:39,174 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:36:41,188 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 22:36:43,201 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 22:36:45,213 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 22:36:47,223 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:36:49,238 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:36:51,255 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:36:53,268 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:36:55,280 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:36:57,301 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:36:59,312 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:37:01,328 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:37:03,337 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:37:05,349 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:37:07,361 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:37:09,373 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:37:11,389 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:37:13,404 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:37:15,421 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 22:37:17,437 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 22:37:19,450 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 22:37:21,464 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 22:37:23,476 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:37:25,490 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:37:27,503 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 200, 'message': 'POST request with status 200'}
+2024-08-14 22:37:29,515 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 22:37:31,528 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 22:37:33,541 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:37:35,551 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 22:37:37,565 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:37:39,579 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 22:37:41,593 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 22:37:43,609 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:37:45,624 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:37:47,637 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 22:37:49,650 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 22:37:51,663 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 22:37:53,680 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 22:37:55,685 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7effebd6d5e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:02:50,446 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252d677f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:02:52,454 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cf3250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:02:54,459 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cf3c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:02:56,464 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cfd670>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:02:58,476 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cf3c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:00,485 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cf31c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:02,489 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252d67d90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:04,494 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cfddf0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:06,508 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252d080a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:08,517 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252d08a90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:10,525 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252d494c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:12,530 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cfdf10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:14,536 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cfd970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:16,542 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cf34c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:18,547 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252d08130>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:20,554 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cf3970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:22,559 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cf32e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:24,565 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cfdd00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:26,568 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cfd250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:28,572 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252d08490>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:30,583 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252d67fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2024-08-14 23:03:33,124 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 23:03:35,272 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 23:03:37,360 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 23:03:39,438 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 23:03:41,598 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 23:03:43,704 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 23:03:45,816 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 404, 'message': 'PUT request with status 404'}
+2024-08-14 23:03:47,895 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 23:03:49,911 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 500, 'message': 'POST request with status 500'}
+2024-08-14 23:03:51,924 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 23:03:53,938 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 23:03:55,951 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 23:03:57,964 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 23:03:59,978 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 23:04:01,996 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 23:04:04,009 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 404, 'message': 'GET request with status 404'}
+2024-08-14 23:04:06,022 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 23:04:08,037 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 404, 'message': 'POST request with status 404'}
+2024-08-14 23:04:10,060 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 23:04:12,076 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 400, 'message': 'DELETE request with status 400'}
+2024-08-14 23:04:14,092 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 201, 'message': 'PUT request with status 201'}
+2024-08-14 23:04:16,107 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 23:04:18,124 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 23:04:20,136 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 23:04:22,151 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 400, 'message': 'PUT request with status 400'}
+2024-08-14 23:04:24,168 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 23:04:26,185 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 201, 'message': 'GET request with status 201'}
+2024-08-14 23:04:28,203 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 500, 'message': 'PUT request with status 500'}
+2024-08-14 23:04:30,218 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 400, 'message': 'POST request with status 400'}
+2024-08-14 23:04:32,235 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 23:04:34,252 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 404, 'message': 'DELETE request with status 404'}
+2024-08-14 23:04:36,262 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 200, 'message': 'DELETE request with status 200'}
+2024-08-14 23:04:38,274 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 23:04:40,290 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 23:04:42,306 - root - INFO - Sent log entry: {'method': 'PUT', 'status_code': 200, 'message': 'PUT request with status 200'}
+2024-08-14 23:04:44,321 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 200, 'message': 'GET request with status 200'}
+2024-08-14 23:04:46,339 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 500, 'message': 'DELETE request with status 500'}
+2024-08-14 23:04:48,357 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 400, 'message': 'GET request with status 400'}
+2024-08-14 23:04:50,374 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 23:04:52,388 - root - INFO - Sent log entry: {'method': 'POST', 'status_code': 201, 'message': 'POST request with status 201'}
+2024-08-14 23:04:54,403 - root - INFO - Sent log entry: {'method': 'GET', 'status_code': 500, 'message': 'GET request with status 500'}
+2024-08-14 23:04:56,415 - root - INFO - Sent log entry: {'method': 'DELETE', 'status_code': 201, 'message': 'DELETE request with status 201'}
+2024-08-14 23:04:58,420 - root - ERROR - Error occurred while sending log: HTTPConnectionPool(host='logstash', port=5044): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc252cfd430>: Failed to establish a new connection: [Errno 111] Connection refused'))

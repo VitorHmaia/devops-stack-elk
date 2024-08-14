@@ -1,0 +1,38 @@
+# Ignorar arquivos e diretórios desnecessários para o Docker build
+
+# Diretórios de cache e arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Diretórios e arquivos de configuração locais
+*.env
+.env*
+
+# Diretórios de dados locais
+data/
+test_data/
+ls_data/
+kb_data/
+
+# Diretórios e arquivos de build
+build/
+dist/
+node_modules/
+
+# Arquivos específicos do Docker
+Dockerfile
+docker-compose.yml
+
+# Diretórios do sistema
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# Diretórios e arquivos específicos do editor
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos de documentação
+README.md

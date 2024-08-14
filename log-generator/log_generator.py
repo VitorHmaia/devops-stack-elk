@@ -1,39 +1,47 @@
-from flask import Flask, jsonify, request
 import logging
+import time
+import random
+import requests
 from logging.handlers import RotatingFileHandler
 
-# Inicializar o aplicativo Flask
-app = Flask(__name__)
-
-# Configurar o logging
-handler = RotatingFileHandler('/app/logs/app.log', maxBytes=10000000, backupCount=1)
+# Configuração do logging
+log_file = '/app/logs/app.log'
+handler = RotatingFileHandler(log_file, maxBytes=10000000, backupCount=1)
 handler.setLevel(logging.INFO)
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 handler.setFormatter(formatter)
-app.logger.addHandler(handler)
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
+logger.addHandler(handler)
 
-@app.route('/')
-def index():
-    app.logger.info('GET / - Index route accessed')
-    return jsonify(message='Welcome to the API!'), 200
+# Funções para gerar logs aleatórios
+def generate_random_log():
+    methods = ['GET', 'POST', 'PUT', 'DELETE']
+    status_codes = [200, 201, 400, 404, 500]
+    method = random.choice(methods)
+    status_code = random.choice(status_codes)
+    message = f'{method} request with status {status_code}'
+    return method, status_code, message
 
-@app.route('/status', methods=['GET'])
-def status():
-    status_code = 200
-    app.logger.info('GET /status - Status route accessed with status code %d', status_code)
-    return jsonify(status='OK'), status_code
+# Função para enviar logs para o Logstash
+def send_log_to_logstash(method, status_code, message):
+    try:
+        log_entry = {
+            'method': method,
+            'status_code': status_code,
+            'message': message
+        }
+        # Enviar logs para o Logstash (ajuste a URL conforme necessário)
+        requests.post('http://logstash:5044', json=log_entry)
+        logger.info('Sent log entry: %s', log_entry)
+    except Exception as e:
+        logger.error('Error occurred while sending log: %s', str(e))
 
-@app.route('/error', methods=['GET'])
-def error():
-    status_code = 500
-    app.logger.error('GET /error - Error route accessed with status code %d', status_code)
-    return jsonify(error='Internal Server Error'), status_code
-
-@app.route('/postdata', methods=['POST'])
-def postdata():
-    data = request.json
-    app.logger.info('POST /postdata - Data received: %s', data)
-    return jsonify(data), 201
+def generate_logs():
+    while True:
+        method, status_code, message = generate_random_log()
+        send_log_to_logstash(method, status_code, message)
+        time.sleep(2)  # Esperar 2 segundos antes de enviar a próxima requisição
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    generate_logs()

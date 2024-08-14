@@ -1,6 +1,6 @@
 services:
   elasticsearch:
-    image: elasticsearch:7.9.1
+    image: elasticsearch:${ELASTICSEARCH_VERSION}
     container_name: elasticsearch
     ports:
       - "9200:9200"
@@ -9,27 +9,18 @@ services:
       - test_data:/usr/share/elasticsearch/data/
       - ./elasticsearch/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
     environment:
-      - discovery.type=single-node
-      - http.host=0.0.0.0
-      - transport.host=0.0.0.0
-      - xpack.security.enabled=false
-      - xpack.monitoring.enabled=false
-      - cluster.name=elasticsearch
-      - bootstrap.memory_lock=true
-    networks:
-      - elk
-  
-  filebeat:
-    image: docker.elastic.co/beats/filebeat:7.10.0
-    volumes:
-      - ./logstash/filebeat.yml:/usr/share/filebeat/filebeat.yml
-      - ./filebeat-logs:/usr/share/filebeat/logs
-      - ./log-generator/logs:/usr/share/filebeat/logs
+      - discovery.type=${ELASTICSEARCH_DISCOVERY_TYPE}
+      - http.host=${ELASTICSEARCH_HTTP_HOST}
+      - transport.host=${ELASTICSEARCH_TRANSPORT_HOST}
+      - xpack.security.enabled=${ELASTICSEARCH_XPACK_SECURITY_ENABLED}
+      - xpack.monitoring.enabled=${ELASTICSEARCH_XPACK_MONITORING_ENABLED}
+      - cluster.name=${ELASTICSEARCH_CLUSTER_NAME}
+      - bootstrap.memory_lock=${ELASTICSEARCH_BOOTSTRAP_MEMORY_LOCK}
     networks:
       - elk
 
   logstash:
-    image: logstash:7.9.1
+    image: logstash:${LOGSTASH_VERSION}
     container_name: logstash
     ports:
       - "5044:5044"
@@ -38,15 +29,17 @@ services:
       - ./logstash/logstash.conf:/usr/share/logstash/pipeline/logstash.conf
       - ./logstash/logstash.yml:/usr/share/logstash/config/logstash.yml
       - ls_data:/usr/share/logstash/data
-
     networks:
       - elk
     depends_on:
       - elasticsearch
 
   kibana:
-    image: kibana:7.9.1
+    image: kibana:${KIBANA_VERSION}
     container_name: kibana
+    environment:
+      - ELASTICSEARCH_URL=${KIBANA_ELASTICSEARCH_URL}
+      - ELASTIC_PASSWORD=${KIBANA_ELASTIC_PASSWORD}
     ports:
       - "5601:5601"
     volumes:
@@ -59,10 +52,11 @@ services:
 
   log-generator:
     build: ./log-generator
+    image: ${LOG_GENERATOR_IMAGE}
     volumes:
       - ./log-generator/logs:/app/logs
     ports:
-      - "5000:5000"
+      - "${LOG_GENERATOR_PORT}:${LOG_GENERATOR_PORT}"
     networks:
       - elk
 
