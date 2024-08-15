@@ -4,7 +4,6 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-7.17.0-yellow?logo=elasticsearch)
 ![Logstash](https://img.shields.io/badge/Logstash-7.17.0-green?logo=logstash)
 ![Kibana](https://img.shields.io/badge/Kibana-7.17.0-pink?logo=kibana)
-![Filebeat](https://img.shields.io/badge/Filebeat-7.17.0-orange?logo=filebeat)
 
 ## Sumário
 
