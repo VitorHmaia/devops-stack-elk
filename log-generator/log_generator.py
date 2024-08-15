@@ -31,7 +31,7 @@ def send_log_to_logstash(method, status_code, message):
             'status_code': status_code,
             'message': message
         }
-        # Enviar logs para o Logstash (ajuste a URL conforme necessário)
+        # Enviar logs para o Logstash
         requests.post('http://logstash:5044', json=log_entry)
         logger.info('Sent log entry: %s', log_entry)
     except Exception as e:
