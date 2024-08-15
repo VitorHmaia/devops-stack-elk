@@ -209,7 +209,7 @@ Aqui estão exemplos de consultas para usar no Kibana Visualize ou TSVB:
   "aggs": {
     "response_time_percentiles": {
       "percentiles": {
-        "field": "response_time", // substituir pelo campo apropriado em seus logs
+        "field": "response_time", 
         "percents": [90, 99]
       }
     }
